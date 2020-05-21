@@ -22,7 +22,7 @@ Latex funktioniert, im Gegensatz zu Microsoft Word, nach dem WYSIWYM (What you s
 - Manchmal können bestimmte Sachen tricky sein (z.B. Bilder richtig positionieren)
 
 ## Übungen
-Übung 1 behandelt Überschriften, Aufzählungen und das Inhaltsverzeichenis sowie einfache Formatierungen. Dabei soll das Word Dokument in 
+Übung 1 behandelt Überschriften, Aufzählungen und das Inhaltsverzeichenis sowie einfache Formatierungen. Dabei soll das Word Dokument als Vorlage dienen und in Latex geschrieben werden. 
 
 Übung 2 behandelt das verteilte Arbeiten sowie die Klasse `scrreprt` und damit verbunden die Chapter.
 
